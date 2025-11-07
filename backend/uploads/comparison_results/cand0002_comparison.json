@@ -1,0 +1,306 @@
+{
+    "Candidate": "cand0002",
+    "Documents": [
+        {
+            "Document_Name": "12thmarksheet.pdf",
+            "Differences": "Error",
+            "Details": [
+                {
+                    "Field": "N/A",
+                    "Reason": "Unknown field for GenerateContentRequest: request_options",
+                    "Json1": {
+                        "document_type": "Marks Statement",
+                        "document_number": "067969",
+                        "board": "CENTRAL BOARD OF SECONDARY EDUCATION",
+                        "exam_name": "Senior School Certificate Examination",
+                        "exam_year": 2020,
+                        "serial_number": "1264019",
+                        "registration_number": "C220/20425/0045",
+                        "candidate_name": "SREEVALSAN",
+                        "roll_number": "17610283",
+                        "mother_name": "MEENA N",
+                        "father_guardian_name": "VENKATESAN K",
+                        "school_code": "40793",
+                        "school_name": "DOON B PUB SR SEC SCHOOL SEHATPUR FARIDABAD HRY",
+                        "date_of_issue": "13-07-2020",
+                        "place_of_issue": "Delhi",
+                        "result": "PASS",
+                        "marks_details": [
+                            {
+                                "subject_code": "301",
+                                "subject_name": "ENGLISH CORE",
+                                "theory_marks": 74,
+                                "internal_assessment_practical_marks": 17,
+                                "total_marks": 91,
+                                "total_marks_in_words": "NINETY ONE",
+                                "positional_grade": "A2"
+                            },
+                            {
+                                "subject_code": "054",
+                                "subject_name": "BUSINESS STUDIES",
+                                "theory_marks": 62,
+                                "internal_assessment_practical_marks": 20,
+                                "total_marks": 82,
+                                "total_marks_in_words": "EIGHTY TWO",
+                                "positional_grade": "B1"
+                            },
+                            {
+                                "subject_code": "055",
+                                "subject_name": "ACCOUNTANCY",
+                                "theory_marks": 39,
+                                "internal_assessment_practical_marks": 19,
+                                "total_marks": 58,
+                                "total_marks_in_words": "FIFTY EIGHT",
+                                "positional_grade": "C2"
+                            },
+                            {
+                                "subject_code": "030",
+                                "subject_name": "ECONOMICS",
+                                "theory_marks": 44,
+                                "internal_assessment_practical_marks": 20,
+                                "total_marks": 64,
+                                "total_marks_in_words": "SIXTY FOUR",
+                                "positional_grade": "C1"
+                            },
+                            {
+                                "subject_code": "048",
+                                "subject_name": "PHYSICAL EDUCATION",
+                                "theory_marks": 60,
+                                "internal_assessment_practical_marks": 30,
+                                "total_marks": 90,
+                                "total_marks_in_words": "NINETY",
+                                "positional_grade": "A2"
+                            },
+                            {
+                                "subject_code": "041",
+                                "subject_name": "MATHEMATICS",
+                                "theory_marks": 26,
+                                "internal_assessment_practical_marks": 15,
+                                "total_marks": 41,
+                                "total_marks_in_words": "FORTY ONE",
+                                "positional_grade": "D2"
+                            },
+                            {
+                                "subject_code": "500",
+                                "subject_name": "WORK EXPERIENCE",
+                                "theory_marks": null,
+                                "internal_assessment_practical_marks": null,
+                                "total_marks": null,
+                                "total_marks_in_words": null,
+                                "positional_grade": "B2"
+                            },
+                            {
+                                "subject_code": "502",
+                                "subject_name": "HEALTH & PHYSICAL EDUCATION",
+                                "theory_marks": null,
+                                "internal_assessment_practical_marks": null,
+                                "total_marks": null,
+                                "total_marks_in_words": null,
+                                "positional_grade": "A1"
+                            },
+                            {
+                                "subject_code": "503",
+                                "subject_name": "GENERAL STUDIES",
+                                "theory_marks": null,
+                                "internal_assessment_practical_marks": null,
+                                "total_marks": null,
+                                "total_marks_in_words": null,
+                                "positional_grade": "B2"
+                            }
+                        ]
+                    },
+                    "Json2": {
+                        "document_type": "Marks Statement",
+                        "document_number": "067969",
+                        "exam_series_number": "SSC/2020/1264019",
+                        "registration_number": "40793/00039",
+                        "secondary_registration_number": "C220/20425/0045",
+                        "exam_name": "Senior School Certificate Examination",
+                        "exam_year": "2020",
+                        "candidate_name": "SREEVALSAN",
+                        "roll_number": "17610283",
+                        "mother_name": "MEENA N",
+                        "father_guardian_name": "VENKATESAN K",
+                        "school": {
+                            "code": "40793",
+                            "name": "DOON B PUB SR SEC SCHOOL SEHATPUR FARIDABAD HRY"
+                        },
+                        "subjects": [
+                            {
+                                "code": "301",
+                                "name": "ENGLISH CORE",
+                                "theory_marks": "074",
+                                "internal_assessment_practical_marks": "017",
+                                "total_marks": "091",
+                                "total_marks_in_words": "NINETY ONE",
+                                "positional_grade": "A2"
+                            },
+                            {
+                                "code": "054",
+                                "name": "BUSINESS STUDIES",
+                                "theory_marks": "062",
+                                "internal_assessment_practical_marks": "020",
+                                "total_marks": "082",
+                                "total_marks_in_words": "EIGHTY TWO",
+                                "positional_grade": "B1"
+                            },
+                            {
+                                "code": "055",
+                                "name": "ACCOUNTANCY",
+                                "theory_marks": "039",
+                                "internal_assessment_practical_marks": "019",
+                                "total_marks": "058",
+                                "total_marks_in_words": "FIFTY EIGHT",
+                                "positional_grade": "C2"
+                            },
+                            {
+                                "code": "030",
+                                "name": "ECONOMICS",
+                                "theory_marks": "044",
+                                "internal_assessment_practical_marks": "020",
+                                "total_marks": "064",
+                                "total_marks_in_words": "SIXTY FOUR",
+                                "positional_grade": "C1"
+                            },
+                            {
+                                "code": "048",
+                                "name": "PHYSICAL EDUCATION",
+                                "theory_marks": "060",
+                                "internal_assessment_practical_marks": "030",
+                                "total_marks": "090",
+                                "total_marks_in_words": "NINETY",
+                                "positional_grade": "A2"
+                            },
+                            {
+                                "code": "041",
+                                "name": "MATHEMATICS",
+                                "theory_marks": "026",
+                                "internal_assessment_practical_marks": "015",
+                                "total_marks": "041",
+                                "total_marks_in_words": "FORTY ONE",
+                                "positional_grade": "D2"
+                            }
+                        ],
+                        "additional_subjects": [
+                            {
+                                "code": "500",
+                                "name": "WORK EXPERIENCE",
+                                "grade": "B2"
+                            },
+                            {
+                                "code": "502",
+                                "name": "HEALTH & PHYSICAL EDUCATION",
+                                "grade": "A1"
+                            },
+                            {
+                                "code": "503",
+                                "name": "GENERAL STUDIES",
+                                "grade": "B2"
+                            }
+                        ],
+                        "result": "PASS",
+                        "issue_date": "13-07-2020",
+                        "issuing_authority": "CENTRAL BOARD OF SECONDARY EDUCATION"
+                    }
+                }
+            ]
+        },
+        {
+            "Document_Name": "pancard.pdf",
+            "Differences": "Error",
+            "Details": [
+                {
+                    "Field": "N/A",
+                    "Reason": "Unknown field for GenerateContentRequest: request_options",
+                    "Json1": {
+                        "document_type": "PAN Card",
+                        "extracted_data": {
+                            "pan_number": "BVZPH2861R",
+                            "name": "SREEVALSAN",
+                            "father_name": "SANKAR",
+                            "date_of_birth": "18/12/1999"
+                        }
+                    },
+                    "Json2": {
+                        "document_type": "PAN Card",
+                        "pan_number": "BVZPH2861R",
+                        "name": "SREEVALSAN",
+                        "father_name": "SANKAR",
+                        "date_of_birth": "18/12/1999",
+                        "issuing_authority": "Income Tax Department, Govt. of India"
+                    }
+                }
+            ]
+        },
+        {
+            "Document_Name": "ugdegree.pdf",
+            "Differences": "Error",
+            "Details": [
+                {
+                    "Field": "N/A",
+                    "Reason": "Unknown field for GenerateContentRequest: request_options",
+                    "Json1": {
+                        "document_type": "University Degree Certificate",
+                        "university_name": "Anna University",
+                        "student_name": "SREEVALSAN V",
+                        "degree_name": "Bachelor of Engineering",
+                        "major": "Civil Engineering",
+                        "registration_number": "30906103052/RG",
+                        "grade_or_class": "First Class with Distinction",
+                        "examination_date": "April 2010",
+                        "issue_date": "December 2010",
+                        "certificate_id": "GUMI10300357"
+                    },
+                    "Json2": {
+                        "document_type": "Degree Certificate",
+                        "university_name": "Anna University",
+                        "student_name": "SREEVALSAN V",
+                        "registration_number": "30906103052/RG",
+                        "degree_name": "BACHELOR OF ENGINEERING",
+                        "major": "CIVIL ENGINEERING",
+                        "faculty": "Civil Engineering",
+                        "class_division": "FIRST CLASS WITH DISTINCTION",
+                        "examination_date": "APRIL 2010",
+                        "award_date": "December 2010",
+                        "certificate_id": "GUMI10300357",
+                        "location": "Chennai 600 025 India",
+                        "officials": [
+                            {
+                                "role": "Controller of Examinations"
+                            },
+                            {
+                                "role": "Registrar"
+                            },
+                            {
+                                "role": "Vice-Chancellor"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "Document_Name": "aadhar.pdf",
+            "Differences": "Error",
+            "Details": [
+                {
+                    "Field": "N/A",
+                    "Reason": "Unknown field for GenerateContentRequest: request_options",
+                    "Json1": {
+                        "document_type": "Aadhaar",
+                        "extracted_data": {
+                            "aadhaar_number": "6636 8618 3657",
+                            "reference_number": "21/1274810059"
+                        }
+                    },
+                    "Json2": {
+                        "document_type": "Aadhaar Card",
+                        "extracted_data": {
+                            "aadhaar_number": "6636 8618 3657"
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,5 @@
+{
+  "name": "VeriDocs Employee Verification",
+  "description": "A clean, minimalistic application for employees to upload documents and for admins to view verification status.",
+  "requestFramePermissions": []
+}
